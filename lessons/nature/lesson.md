@@ -74,10 +74,25 @@ Suomi tunnetaan tuhansista järvistään, laajoista metsistään ja dramaattisis
    - Example: People travel to Lapland in September to see the ruska colors.
    - *Ihmiset matkustavat Lappiin syyskuussa nähdäkseen ruskan värit.*
 
-4. **Fen** (letto)
-   - Definition: A type of wetland with alkaline, mineral-rich water and diverse vegetation
-   - Example: The fen had many rare orchid species growing in it.
-   - *Letolla kasvoi monia harvinaisia orkidealajeja.*
+4. **Wetland** (märkäalue)
+   - Definition: An area of land saturated with water, either permanently or seasonally
+   - Example: Wetlands are important habitats for many bird species.
+   - *Märkäalueet ovat tärkeitä elinympäristöjä monille lintulajeille.*
+
+5. **Forest** (metsä)
+   - Definition: A large area covered with trees and undergrowth
+   - Example: Finland is known for its extensive pine and birch forests.
+   - *Suomi tunnetaan laajoista mänty- ja koivumetsistään.*
+
+6. **Tundra** (tundra)
+   - Definition: A treeless, cold region with low-growing vegetation, found in northern Finland
+   - Example: During summer, the tundra becomes covered with colorful wildflowers.
+   - *Kesällä tundra peittyy värikkäisiin luonnonkukkiin.*
+
+7. **Taiga** (taiga)
+   - Definition: A biome characterized by coniferous forests, found in northern Finland
+   - Example: The taiga is home to animals like elk, wolves, and bears.
+   - *Taiga on kotieläimille kuten hirville, susille ja karhuille.*
 
 ### Cultural Concepts
 
@@ -90,6 +105,38 @@ Suomi tunnetaan tuhansista järvistään, laajoista metsistään ja dramaattisis
    - Definition: A vacation home typically by a lake where Finns spend summer
    - Example: Many Finns spend their weekends at a summer cottage by the lake.
    - *Monet suomalaiset viettävät viikonloppunsa kesämökillä järven rannalla.*
+
+3. **Northern lights** (revontulet)
+   - Definition: Colorful lights visible in the northern sky
+   - Example: We stayed up all night to watch the northern lights dance across the sky.
+   - *Valvoimme koko yön katsellaksemme revontulia tanssimassa taivaalla.*
+
+4. **Midnight sun** (keskiyön aurinko)
+   - Definition: When the sun is visible at midnight during summer in northern Finland
+   - Example: It's strange to experience the midnight sun when you can read a book outside at 1 AM.
+   - *On outoa kokea keskiyön aurinko, kun voi lukea kirjaa ulkona kello 1 yöllä.*
+
+5. **Earth Day** (Maan päivä)
+   - Definition: An annual event to demonstrate support for environmental protection
+   - Example: On Earth Day, many communities organize clean-up activities.
+   - *Maan päivänä monet yhteisöt järjestävät siivousaktiviteetteja.*
+
+### Nature Conservation
+
+1. **Nature conservation** (luonnonsuojelu)
+   - Definition: The practice of protecting natural areas and wildlife
+   - Example: Finland has a long tradition of nature conservation.
+   - *Suomella on pitkä perinne luonnonsuojelussa.*
+
+2. **Nature reserve** (luonnonsuojelualue)
+   - Definition: A protected area for the conservation of wildlife and natural resources
+   - Example: No hunting or logging is allowed in the nature reserve.
+   - *Luonnonsuojelualueella metsästys ja hakkuut ovat kiellettyjä.*
+
+3. **Nature trail** (luontopolku)
+   - Definition: A path through natural areas for walking and exploring
+   - Example: The nature trail had informational signs about local plants and animals.
+   - *Luontopolulla oli opastauluja paikallisista kasveista ja eläimistä.*
 
 ## Discussion Questions
 
@@ -119,9 +166,9 @@ Suomi tunnetaan tuhansista järvistään, laajoista metsistään ja dramaattisis
    
    **Finnish**: Oletko huomannut muutoksia Suomen luonnossa tai vuodenajoissa elämäsi aikana? Esimerkiksi muutoksia ruska-ajassa tai talviolosuhteissa?
 
-7. **English**: Earth Day reminds us to protect our environment. What traditional Finnish practices do you think are good examples of living in harmony with nature?
+7. **English**: Earth Day celebrates protecting our environment. What are simple ways you've seen Finns care for nature in your community?
    
-   **Finnish**: Maan päivä muistuttaa meitä ympäristön suojelemisesta. Mitkä perinteiset suomalaiset tavat ovat mielestäsi hyviä esimerkkejä luonnon kanssa sopusoinnussa elämisestä?
+   **Finnish**: Maan päivä juhlistaa ympäristömme suojelua. Mitä yksinkertaisia tapoja olet nähnyt suomalaisten huolehtivan luonnosta yhteisössäsi?
 
 8. **English**: Many Finnish place names come from nature features, like Joensuu (river's mouth) or Järvenpää (end of the lake). Do you know the story behind your hometown's name?
    
